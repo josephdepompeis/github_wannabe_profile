@@ -1,28 +1,10 @@
-== README
+#GITHUB WANNABE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+checkout url below to see a very basic form with button
+`http://localhost:3000/form/ask`
 
-Things you may want to cover:
+in the field, enter in a github user name
 
-* Ruby version
+see the top right hand section update depending on username
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+image, location, company, join date, username, and full name should update accordingly.
